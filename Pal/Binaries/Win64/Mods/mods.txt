@@ -1,0 +1,13 @@
+CheatManagerEnablerMod : 0
+ActorDumperMod : 0
+ConsoleCommandsMod : 0
+ConsoleEnablerMod : 0
+SplitScreenMod : 0
+LineTraceMod : 0
+BPModLoaderMod : 0
+
+
+
+
+; Built-in keybinds, do not move up!
+Keybinds : 1
